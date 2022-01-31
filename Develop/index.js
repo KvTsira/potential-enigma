@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+const inquirer = require ('inquire');
 
 // TODO: Create an array of questions for user input
 const questions = [];
@@ -11,3 +12,5 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+
