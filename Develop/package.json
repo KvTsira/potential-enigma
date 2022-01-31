@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tsira",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   },
-  "description": ""
+  "description": "readMe generator",
+  "repository": {
+    "type": "git",
+    "url": "KvTsira"
+  },
+  "keywords": [
+    "ReadMe",
+    "generator"
+  ]
 }
