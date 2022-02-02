@@ -1,6 +1,6 @@
 
-# fdd
-## Table of Contents [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+# test1
+## Table of Contents [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - [Description](#description)
 - [Installation](#installation)
@@ -17,16 +17,16 @@ Project description
 
 ## Installation <a name="installation"></a>
 Here's how you setup this project:<br />
-undefined  
+The following is the default installation instruction  
 
 ## Languages <a name="languages"></a>
-HTML,CSS,JavaScript,Ruby,React,Python,C,C#,TypeScript,Other  
+  
 
 ## Licensing <a name="licensing"></a> 
-This application is covered by the IBM license. 
+This application is covered by the MIT license. 
 
 ## Usage <a name="usage"></a> 
-undefined 
+Can be used however you like 
 
 ## Tests  <a name="tests"></a> 
 I did unit testing 
@@ -38,10 +38,10 @@ If you would like to contribute to the project further, then: Reach out on Githu
 <br /> 
 
 ## license <a name="license"></a> 
-Licensed under the [IBM](https://opensource.org/licenses/IPL-1.0)  license 
+Licensed under the [MIT](https://opensource.org/licenses/MIT)  license 
 
 
 ## Questions 😊 <a name="questions"></a> 
-Get in touch with me on Github: [dfgdg](https://github.com/dfgdg)
+Get in touch with me on Github: [test1](https://github.com/test1)
 <br />
-If you have any additional questions, please contact me at: dfgdg
+If you have any additional questions, please contact me at: test1

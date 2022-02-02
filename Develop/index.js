@@ -34,13 +34,13 @@ const questions = [
 
     {
         type: 'input',
-        name: 'installation ',
+        name: 'installation',
         message: 'How would you install this project?',
         default: 'The following is the default installation instruction',
     },
     {
         type: 'input',
-        name: 'usage ',
+        name: 'usage',
         message: 'How would you use this project',
         default: 'Can be used however you like',
     },
