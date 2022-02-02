@@ -54,7 +54,7 @@ const questions = [
         type: 'list',
         name: 'licensing',
         message: 'What License is this used with?',
-        choices: ['Apache','Artistic','Educational','MIT','Mozilla','Open','N/A']
+        choices: ['MIT','IBM','ISC','N/A']
     },
     {
         type: 'input',
@@ -84,8 +84,15 @@ async function init() {
     try {
         const answers = await askUser();
         const buildContent = createReadMe(answers);
-        writeAsync('./README.md', buildContent);
-        console.log('README.md successfully created in the written folder.');
+        fs.writeFile('./README.md',buildContent, function(err) {
+            if(err) {
+                console.log ('coud not create a file');
+            } else{
+                console.log('README.md successfully created in the written folder.');
+            }
+        });
+        //writeAsync('./README.md', buildContent);
+        //console.log('README.md successfully created in the written folder.');
     } catch (err) {
         console.log(err);
     }
